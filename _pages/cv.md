@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my resume (in french) : 
--  <a href="../files/cv.pdf" target="_blank">[CV]</a>
+Here is my resume (in french) : <a href="../files/cv.pdf" target="_blank"> CV </a>

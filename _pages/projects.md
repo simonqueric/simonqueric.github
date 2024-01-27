@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-
-
 ## Master 2
 ### September 2023 - March 2024
 
@@ -19,8 +17,14 @@ Here are some of my projects and labs done during my Master :
 
 - Altegrad 2023 : Natural language queries and molecules matching for the NLP course <i>Advanced learning for text and graph data</i> !
 - IPPMed 2023 : Medical imaging data challenge organized by Télécom Paris!   
+
+<!-- ### To come soon : 
+- Face recognizer
+- phase vocoder
+- Environmental monitoring with remote sensing
+- Blind source separation for astrophysics $ X = AS $
 - Data challenge for the course  <i> Kernel methods in Machine Learning </i>.
-- Data challenge for the course <i> Deep Learning for medical imaging </i>.
+- Data challenge for the course <i> Deep Learning for medical imaging </i>. -->
 
 
 ## Internship at <i> L'Hôpital National de la Vision</i>
