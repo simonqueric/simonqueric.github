@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -18,5 +18,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   #- title: "Guide"
   #  url: /markdown/
